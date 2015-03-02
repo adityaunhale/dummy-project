@@ -1,3 +1,3 @@
 # dummy-project
 this is master
-under development of abc
+under testing  of ab
